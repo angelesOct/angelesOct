@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/angelesOct) 
 
 Soy Ing. En Tecnologías de la Información y Comunicación Nivel JR. 
-Me gusta aprender nuevas tecnologías y mi pasión es programar, el diseño web (responsive design), estoy enfocada en el desarrollo web, pero también, me gusta el desarrollo móvil, en mi perfil encontrarás los proyectos que he desarrollado y puedes comunicarte mediante mis redes sociales aquí incluidas. 
+Me gusta aprender nuevas tecnologías y mi pasión es programar y el diseño web (responsive design), estoy enfocada en el desarrollo web, pero también, me gusta el desarrollo móvil, en mi perfil encontrarás los proyectos que he desarrollado y puedes comunicarte mediante mis redes sociales aquí incluidas. 
 
 Habilidades: Adobe XD/Photoshop/Python/PHP/Java/CSS/ HTML
 
