@@ -9,7 +9,7 @@ Me gusta aprender nuevas tecnologías y mi pasión es programar y el diseño web
 Habilidades: Adobe XD/Photoshop/Python/PHP/Java/CSS/ HTML
 
 - 🔭 Estoy trabajando en Desarrollo web con Django (Python) 
-- 🌱 Estoy aprendiendo *"Framework DJango, PL/SQL, Java Script y Docker"* 
+- 🌱 Estoy aprendiendo *"Framework DJango, PostgreSQL, Java Script y Docker"* 
 - 💬 Pregúntame acerca de Bases de Datos (consultas avanzadas MySQL), Desarrollo web y móvil, diseños responsivos, manejo de JQuery.  
 - 😄 Pronombres: Angie 
 
