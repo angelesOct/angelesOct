@@ -3,6 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/angelesOct) 
 
+<p align="center">
+<img src='https://github.com/angelesOct/angelesOct/blob/main/Portada%20Angeles.png' alt='banner' height='400' aling="center">
+</p>
+
 Soy Ing. En Tecnologías de la Información y Comunicación Nivel JR. 
 Me gusta aprender nuevas tecnologías y mi pasión es programar y el diseño web (responsive design), estoy enfocada en el desarrollo web, pero también, me gusta el desarrollo móvil, en mi perfil encontrarás los proyectos que he desarrollado y puedes comunicarte mediante mis redes sociales aquí incluidas. 
 
